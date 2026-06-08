@@ -1,6 +1,7 @@
 # Nawala Checker
+![Nawala Checker](./Builds/Demo.png)
 
-Cek status blokir domain di TrustPositif (Komdigi/Kominfo) untuk mengetahui apakah suatu situs terkena nawala atau tidak. Terdiri dari satu file eksekusi dengan dua mode: CLI dan GUI (Berbasis Web UI). Mendukung kompilasi lintas platform (macOS, Windows, Linux untuk CLI), menggunakan worker pool, dengan hasil realtime tanpa perlu menunggu semua proses selesai.
+Cek status blokir domain di TrustPositif (Komdigi/Kominfo) untuk mengetahui apakah suatu situs terkena nawala atau tidak. Terdiri dari satu file eksekusi dengan dua mode: CLI dan GUI (Berbasis Web UI). Mendukung kompilasi lintas platform (macOS, Windows, Linux untuk CLI), menggunakan worker pool, dengan hasil realtime tanpa perlu menunggu semua proses selesai. Aplikasi yang siap pakai dapat didownload di folder Builds (Windows/MacOs).
 
 ## Fitur
 
